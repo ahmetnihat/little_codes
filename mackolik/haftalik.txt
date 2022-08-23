@@ -1,0 +1,693 @@
+    1. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   1. Hafta    Borussia Dortmund  |       Bayern München  |  2 - 2
+1   1. Hafta           RB Leipzig  |     Bayer Leverkusen  |  3 - 2
+2   1. Hafta             Freiburg  |             Freiburg  |  3 - 0
+3   1. Hafta   Fortuna Düsseldorf  |        Werder Bremen  |  1 - 3
+4   1. Hafta     Bayer Leverkusen  |            Wolfsburg  |  2 - 1
+5   1. Hafta            Wolfsburg  |    Borussia Dortmund  |  5 - 1
+6   1. Hafta  Eintracht Frankfurt  |      Mönchengladbach  |  0 - 0
+7   1. Hafta        Hertha Berlin  |  Eintracht Frankfurt  |  1 - 0
+8   1. Hafta       Bayern München  |         Union Berlin  |  0 - 4
+9   1. Hafta              Schalke  |        Hertha Berlin  |  2 - 2
+10  1. Hafta      Mönchengladbach  |            Paderborn  |  3 - 2
+11  1. Hafta            Paderborn  |             Mainz 05  |  3 - 0
+12  1. Hafta                 Köln  |   Fortuna Düsseldorf  |  1 - 3
+13  1. Hafta           Hoffenheim  |                 Köln  |  2 - 1
+14  1. Hafta        Werder Bremen  |             Augsburg  |  5 - 1
+15  1. Hafta                Mainz  |           Schalke 04  |  0 - 0
+16  1. Hafta             Augsburg  |           Hoffenheim  |  1 - 0
+17  1. Hafta         Union Berlin  |           RB Leipzig  |  0 - 4
+
+
+    2. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   2. Hafta    Borussia Dortmund  |                 Köln  |  1 - 3
+1   2. Hafta             Freiburg  |   Fortuna Düsseldorf  |  1 - 3
+2   2. Hafta           RB Leipzig  |           Hoffenheim  |  3 - 2
+3   2. Hafta            Wolfsburg  |             Augsburg  |  1 - 1
+4   2. Hafta     Bayer Leverkusen  |             Mainz 05  |  1 - 3
+5   2. Hafta       Bayern München  |            Paderborn  |  1 - 3
+6   2. Hafta      Mönchengladbach  |           Schalke 04  |  0 - 3
+7   2. Hafta   Fortuna Düsseldorf  |           RB Leipzig  |  2 - 1
+8   2. Hafta           Hoffenheim  |        Hertha Berlin  |  0 - 3
+9   2. Hafta  Eintracht Frankfurt  |    Borussia Dortmund  |  1 - 3
+10  2. Hafta        Hertha Berlin  |     Bayer Leverkusen  |  1 - 3
+11  2. Hafta              Schalke  |        Werder Bremen  |  3 - 2
+12  2. Hafta             Augsburg  |         Union Berlin  |  1 - 1
+13  2. Hafta         Union Berlin  |      Mönchengladbach  |  1 - 3
+14  2. Hafta            Paderborn  |             Freiburg  |  1 - 3
+15  2. Hafta        Werder Bremen  |       Bayern München  |  0 - 3
+16  2. Hafta                 Köln  |  Eintracht Frankfurt  |  2 - 1
+17  2. Hafta                Mainz  |            Wolfsburg  |  0 - 3
+
+
+    3. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   3. Hafta           RB Leipzig  |      Mönchengladbach  |  1 - 3
+1   3. Hafta       Bayern München  |             Freiburg  |  1 - 2
+2   3. Hafta            Wolfsburg  |       Bayern München  |  6 - 1
+3   3. Hafta     Bayer Leverkusen  |     Bayer Leverkusen  |  0 - 0
+4   3. Hafta    Borussia Dortmund  |           Schalke 04  |  3 - 0
+5   3. Hafta             Freiburg  |            Wolfsburg  |  1 - 1
+6   3. Hafta  Eintracht Frankfurt  |         Union Berlin  |  3 - 1
+7   3. Hafta      Mönchengladbach  |        Werder Bremen  |  3 - 2
+8   3. Hafta              Schalke  |  Eintracht Frankfurt  |  2 - 1
+9   3. Hafta           Hoffenheim  |           RB Leipzig  |  1 - 3
+10  3. Hafta         Union Berlin  |                 Köln  |  1 - 2
+11  3. Hafta   Fortuna Düsseldorf  |             Mainz 05  |  6 - 1
+12  3. Hafta        Werder Bremen  |           Hoffenheim  |  0 - 0
+13  3. Hafta                 Köln  |        Hertha Berlin  |  3 - 0
+14  3. Hafta            Paderborn  |            Paderborn  |  1 - 1
+15  3. Hafta             Augsburg  |    Borussia Dortmund  |  3 - 1
+16  3. Hafta        Hertha Berlin  |             Augsburg  |  3 - 2
+17  3. Hafta                Mainz  |   Fortuna Düsseldorf  |  2 - 1
+
+
+    4. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   4. Hafta           RB Leipzig  |   Fortuna Düsseldorf  |  1 - 1
+1   4. Hafta    Borussia Dortmund  |             Augsburg  |  2 - 1
+2   4. Hafta             Freiburg  |    Borussia Dortmund  |  4 - 0
+3   4. Hafta       Bayern München  |                 Köln  |  0 - 1
+4   4. Hafta            Wolfsburg  |         Union Berlin  |  1 - 2
+5   4. Hafta              Schalke  |             Mainz 05  |  2 - 1
+6   4. Hafta      Mönchengladbach  |           RB Leipzig  |  1 - 1
+7   4. Hafta     Bayer Leverkusen  |           Hoffenheim  |  0 - 3
+8   4. Hafta  Eintracht Frankfurt  |            Paderborn  |  1 - 5
+9   4. Hafta        Werder Bremen  |            Wolfsburg  |  1 - 1
+10  4. Hafta   Fortuna Düsseldorf  |  Eintracht Frankfurt  |  2 - 1
+11  4. Hafta         Union Berlin  |     Bayer Leverkusen  |  4 - 0
+12  4. Hafta           Hoffenheim  |      Mönchengladbach  |  0 - 1
+13  4. Hafta             Augsburg  |        Werder Bremen  |  1 - 2
+14  4. Hafta                 Köln  |        Hertha Berlin  |  2 - 1
+15  4. Hafta                Mainz  |       Bayern München  |  1 - 1
+16  4. Hafta            Paderborn  |             Freiburg  |  0 - 3
+17  4. Hafta        Hertha Berlin  |           Schalke 04  |  1 - 5
+
+
+    5. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   5. Hafta           RB Leipzig  |           Schalke 04  |  2 - 1
+1   5. Hafta       Bayern München  |             Freiburg  |  1 - 1
+2   5. Hafta    Borussia Dortmund  |       Bayern München  |  4 - 0
+3   5. Hafta             Freiburg  |     Bayer Leverkusen  |  2 - 0
+4   5. Hafta              Schalke  |        Hertha Berlin  |  2 - 1
+5   5. Hafta      Mönchengladbach  |        Werder Bremen  |  0 - 3
+6   5. Hafta     Bayer Leverkusen  |      Mönchengladbach  |  2 - 1
+7   5. Hafta            Wolfsburg  |  Eintracht Frankfurt  |  2 - 2
+8   5. Hafta  Eintracht Frankfurt  |            Wolfsburg  |  1 - 1
+9   5. Hafta        Werder Bremen  |             Mainz 05  |  2 - 1
+10  5. Hafta           Hoffenheim  |             Augsburg  |  1 - 1
+11  5. Hafta             Augsburg  |                 Köln  |  4 - 0
+12  5. Hafta   Fortuna Düsseldorf  |         Union Berlin  |  2 - 0
+13  5. Hafta         Union Berlin  |            Paderborn  |  2 - 1
+14  5. Hafta        Hertha Berlin  |           RB Leipzig  |  0 - 3
+15  5. Hafta                 Köln  |   Fortuna Düsseldorf  |  2 - 1
+16  5. Hafta                Mainz  |    Borussia Dortmund  |  2 - 2
+17  5. Hafta            Paderborn  |           Hoffenheim  |  1 - 1
+
+
+    6. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   6. Hafta       Bayern München  |         Union Berlin  |  1 - 2
+1   6. Hafta           RB Leipzig  |             Augsburg  |  0 - 3
+2   6. Hafta             Freiburg  |           Hoffenheim  |  0 - 3
+3   6. Hafta              Schalke  |            Paderborn  |  2 - 3
+4   6. Hafta      Mönchengladbach  |           RB Leipzig  |  1 - 3
+5   6. Hafta     Bayer Leverkusen  |             Mainz 05  |  0 - 1
+6   6. Hafta            Wolfsburg  |    Borussia Dortmund  |  2 - 2
+7   6. Hafta    Borussia Dortmund  |   Fortuna Düsseldorf  |  1 - 2
+8   6. Hafta  Eintracht Frankfurt  |                 Köln  |  0 - 4
+9   6. Hafta        Hertha Berlin  |  Eintracht Frankfurt  |  1 - 2
+10  6. Hafta        Werder Bremen  |     Bayer Leverkusen  |  0 - 3
+11  6. Hafta           Hoffenheim  |      Mönchengladbach  |  0 - 3
+12  6. Hafta             Augsburg  |       Bayern München  |  2 - 3
+13  6. Hafta   Fortuna Düsseldorf  |           Schalke 04  |  1 - 3
+14  6. Hafta         Union Berlin  |            Wolfsburg  |  0 - 1
+15  6. Hafta                Mainz  |        Werder Bremen  |  2 - 2
+16  6. Hafta                 Köln  |             Freiburg  |  1 - 2
+17  6. Hafta            Paderborn  |        Hertha Berlin  |  0 - 4
+
+
+    7. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   7. Hafta      Mönchengladbach  |        Hertha Berlin  |  3 - 1
+1   7. Hafta            Wolfsburg  |       Bayern München  |  1 - 2
+2   7. Hafta       Bayern München  |     Bayer Leverkusen  |  1 - 1
+3   7. Hafta           RB Leipzig  |             Freiburg  |  2 - 2
+4   7. Hafta             Freiburg  |            Paderborn  |  1 - 2
+5   7. Hafta              Schalke  |           Schalke 04  |  1 - 1
+6   7. Hafta     Bayer Leverkusen  |      Mönchengladbach  |  5 - 1
+7   7. Hafta    Borussia Dortmund  |            Wolfsburg  |  1 - 0
+8   7. Hafta  Eintracht Frankfurt  |  Eintracht Frankfurt  |  2 - 2
+9   7. Hafta        Hertha Berlin  |   Fortuna Düsseldorf  |  3 - 1
+10  7. Hafta        Werder Bremen  |           Hoffenheim  |  1 - 2
+11  7. Hafta           Hoffenheim  |           RB Leipzig  |  1 - 1
+12  7. Hafta                Mainz  |    Borussia Dortmund  |  2 - 2
+13  7. Hafta             Augsburg  |             Mainz 05  |  1 - 2
+14  7. Hafta   Fortuna Düsseldorf  |                 Köln  |  1 - 1
+15  7. Hafta         Union Berlin  |             Augsburg  |  5 - 1
+16  7. Hafta                 Köln  |         Union Berlin  |  1 - 0
+17  7. Hafta            Paderborn  |        Werder Bremen  |  2 - 2
+
+
+    8. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   8. Hafta      Mönchengladbach  |  Eintracht Frankfurt  |  3 - 0
+1   8. Hafta            Wolfsburg  |         Union Berlin  |  2 - 0
+2   8. Hafta       Bayern München  |        Werder Bremen  |  1 - 1
+3   8. Hafta    Borussia Dortmund  |             Augsburg  |  2 - 2
+4   8. Hafta           RB Leipzig  |           RB Leipzig  |  1 - 1
+5   8. Hafta             Freiburg  |   Fortuna Düsseldorf  |  1 - 0
+6   8. Hafta              Schalke  |    Borussia Dortmund  |  1 - 0
+7   8. Hafta  Eintracht Frankfurt  |                 Köln  |  3 - 0
+8   8. Hafta     Bayer Leverkusen  |           Hoffenheim  |  2 - 0
+9   8. Hafta        Hertha Berlin  |     Bayer Leverkusen  |  3 - 0
+10  8. Hafta           Hoffenheim  |             Freiburg  |  2 - 0
+11  8. Hafta        Werder Bremen  |        Hertha Berlin  |  1 - 1
+12  8. Hafta   Fortuna Düsseldorf  |       Bayern München  |  2 - 2
+13  8. Hafta         Union Berlin  |            Wolfsburg  |  1 - 1
+14  8. Hafta                 Köln  |             Mainz 05  |  1 - 0
+15  8. Hafta             Augsburg  |      Mönchengladbach  |  1 - 0
+16  8. Hafta                Mainz  |            Paderborn  |  3 - 0
+17  8. Hafta            Paderborn  |           Schalke 04  |  2 - 0
+
+
+    9. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   9. Hafta      Mönchengladbach  |             Mainz 05  |  3 - 1
+1   9. Hafta       Bayern München  |             Freiburg  |  2 - 1
+2   9. Hafta             Freiburg  |            Paderborn  |  2 - 0
+3   9. Hafta            Wolfsburg  |       Bayern München  |  2 - 1
+4   9. Hafta    Borussia Dortmund  |        Hertha Berlin  |  2 - 3
+5   9. Hafta           RB Leipzig  |           Schalke 04  |  0 - 0
+6   9. Hafta              Schalke  |     Bayer Leverkusen  |  2 - 2
+7   9. Hafta     Bayer Leverkusen  |            Wolfsburg  |  0 - 0
+8   9. Hafta  Eintracht Frankfurt  |      Mönchengladbach  |  4 - 2
+9   9. Hafta           Hoffenheim  |                 Köln  |  3 - 1
+10  9. Hafta        Hertha Berlin  |           RB Leipzig  |  2 - 1
+11  9. Hafta        Werder Bremen  |   Fortuna Düsseldorf  |  2 - 0
+12  9. Hafta                Mainz  |         Union Berlin  |  2 - 1
+13  9. Hafta   Fortuna Düsseldorf  |           Hoffenheim  |  2 - 3
+14  9. Hafta         Union Berlin  |    Borussia Dortmund  |  0 - 0
+15  9. Hafta                 Köln  |        Werder Bremen  |  2 - 2
+16  9. Hafta             Augsburg  |             Augsburg  |  0 - 0
+17  9. Hafta            Paderborn  |  Eintracht Frankfurt  |  4 - 2
+
+
+    10. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   10. Hafta      Mönchengladbach  |           Hoffenheim  |  3 - 0
+1   10. Hafta    Borussia Dortmund  |     Bayer Leverkusen  |  1 - 2
+2   10. Hafta           RB Leipzig  |           RB Leipzig  |  8 - 0
+3   10. Hafta       Bayern München  |  Eintracht Frankfurt  |  5 - 1
+4   10. Hafta             Freiburg  |        Werder Bremen  |  2 - 2
+5   10. Hafta              Schalke  |    Borussia Dortmund  |  3 - 0
+6   10. Hafta  Eintracht Frankfurt  |         Union Berlin  |  1 - 0
+7   10. Hafta            Wolfsburg  |   Fortuna Düsseldorf  |  2 - 0
+8   10. Hafta           Hoffenheim  |             Augsburg  |  2 - 3
+9   10. Hafta     Bayer Leverkusen  |            Paderborn  |  3 - 0
+10  10. Hafta        Hertha Berlin  |      Mönchengladbach  |  1 - 2
+11  10. Hafta        Werder Bremen  |             Mainz 05  |  8 - 0
+12  10. Hafta   Fortuna Düsseldorf  |       Bayern München  |  5 - 1
+13  10. Hafta         Union Berlin  |             Freiburg  |  2 - 2
+14  10. Hafta                Mainz  |            Wolfsburg  |  3 - 0
+15  10. Hafta             Augsburg  |        Hertha Berlin  |  1 - 0
+16  10. Hafta                 Köln  |                 Köln  |  2 - 0
+17  10. Hafta            Paderborn  |           Schalke 04  |  2 - 3
+
+
+    11. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   11. Hafta      Mönchengladbach  |                 Köln  |  1 - 2
+1   11. Hafta           RB Leipzig  |        Hertha Berlin  |  2 - 4
+2   11. Hafta       Bayern München  |             Mainz 05  |  2 - 3
+3   11. Hafta             Freiburg  |            Paderborn  |  0 - 1
+4   11. Hafta           Hoffenheim  |           Schalke 04  |  3 - 3
+5   11. Hafta    Borussia Dortmund  |       Bayern München  |  4 - 0
+6   11. Hafta              Schalke  |      Mönchengladbach  |  3 - 1
+7   11. Hafta     Bayer Leverkusen  |            Wolfsburg  |  0 - 2
+8   11. Hafta  Eintracht Frankfurt  |             Freiburg  |  1 - 0
+9   11. Hafta            Wolfsburg  |           Hoffenheim  |  1 - 2
+10  11. Hafta         Union Berlin  |           RB Leipzig  |  2 - 4
+11  11. Hafta        Hertha Berlin  |         Union Berlin  |  2 - 3
+12  11. Hafta   Fortuna Düsseldorf  |             Augsburg  |  0 - 1
+13  11. Hafta        Werder Bremen  |   Fortuna Düsseldorf  |  3 - 3
+14  11. Hafta             Augsburg  |    Borussia Dortmund  |  4 - 0
+15  11. Hafta                Mainz  |        Werder Bremen  |  3 - 1
+16  11. Hafta                 Köln  |     Bayer Leverkusen  |  0 - 2
+17  11. Hafta            Paderborn  |  Eintracht Frankfurt  |  1 - 0
+
+
+    12. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   12. Hafta      Mönchengladbach  |    Borussia Dortmund  |  3 - 3
+1   12. Hafta           RB Leipzig  |     Bayer Leverkusen  |  1 - 1
+2   12. Hafta       Bayern München  |         Union Berlin  |  2 - 0
+3   12. Hafta             Freiburg  |        Werder Bremen  |  1 - 2
+4   12. Hafta              Schalke  |  Eintracht Frankfurt  |  0 - 2
+5   12. Hafta    Borussia Dortmund  |   Fortuna Düsseldorf  |  0 - 4
+6   12. Hafta            Wolfsburg  |           RB Leipzig  |  4 - 1
+7   12. Hafta           Hoffenheim  |             Augsburg  |  4 - 0
+8   12. Hafta     Bayer Leverkusen  |           Hoffenheim  |  1 - 5
+9   12. Hafta  Eintracht Frankfurt  |            Paderborn  |  3 - 3
+10  12. Hafta         Union Berlin  |             Freiburg  |  1 - 1
+11  12. Hafta             Augsburg  |      Mönchengladbach  |  2 - 0
+12  12. Hafta                Mainz  |           Schalke 04  |  1 - 2
+13  12. Hafta        Werder Bremen  |            Wolfsburg  |  0 - 2
+14  12. Hafta        Hertha Berlin  |       Bayern München  |  0 - 4
+15  12. Hafta   Fortuna Düsseldorf  |                 Köln  |  4 - 1
+16  12. Hafta                 Köln  |        Hertha Berlin  |  4 - 0
+17  12. Hafta            Paderborn  |             Mainz 05  |  1 - 5
+
+
+    13. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   13. Hafta      Mönchengladbach  |           Schalke 04  |  2 - 1
+1   13. Hafta           RB Leipzig  |                 Köln  |  1 - 1
+2   13. Hafta              Schalke  |            Paderborn  |  2 - 3
+3   13. Hafta       Bayern München  |           Hoffenheim  |  1 - 1
+4   13. Hafta    Borussia Dortmund  |        Hertha Berlin  |  1 - 2
+5   13. Hafta             Freiburg  |       Bayern München  |  1 - 2
+6   13. Hafta     Bayer Leverkusen  |      Mönchengladbach  |  4 - 2
+7   13. Hafta           Hoffenheim  |            Wolfsburg  |  2 - 3
+8   13. Hafta            Wolfsburg  |             Mainz 05  |  2 - 1
+9   13. Hafta  Eintracht Frankfurt  |         Union Berlin  |  2 - 1
+10  13. Hafta         Union Berlin  |             Augsburg  |  1 - 1
+11  13. Hafta                Mainz  |           RB Leipzig  |  2 - 3
+12  13. Hafta        Werder Bremen  |   Fortuna Düsseldorf  |  1 - 1
+13  13. Hafta             Augsburg  |    Borussia Dortmund  |  1 - 2
+14  13. Hafta   Fortuna Düsseldorf  |     Bayer Leverkusen  |  1 - 2
+15  13. Hafta        Hertha Berlin  |             Freiburg  |  4 - 2
+16  13. Hafta                 Köln  |        Werder Bremen  |  2 - 3
+17  13. Hafta            Paderborn  |  Eintracht Frankfurt  |  2 - 1
+
+
+    14. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   14. Hafta      Mönchengladbach  |  Eintracht Frankfurt  |  2 - 2
+1   14. Hafta           RB Leipzig  |             Freiburg  |  1 - 0
+2   14. Hafta    Borussia Dortmund  |             Augsburg  |  2 - 1
+3   14. Hafta              Schalke  |           RB Leipzig  |  3 - 1
+4   14. Hafta             Freiburg  |      Mönchengladbach  |  2 - 1
+5   14. Hafta     Bayer Leverkusen  |    Borussia Dortmund  |  5 - 0
+6   14. Hafta       Bayern München  |     Bayer Leverkusen  |  2 - 1
+7   14. Hafta           Hoffenheim  |         Union Berlin  |  2 - 0
+8   14. Hafta            Wolfsburg  |        Werder Bremen  |  0 - 1
+9   14. Hafta         Union Berlin  |        Hertha Berlin  |  2 - 2
+10  14. Hafta  Eintracht Frankfurt  |            Wolfsburg  |  1 - 0
+11  14. Hafta             Augsburg  |             Mainz 05  |  2 - 1
+12  14. Hafta                Mainz  |           Hoffenheim  |  3 - 1
+13  14. Hafta        Werder Bremen  |       Bayern München  |  2 - 1
+14  14. Hafta        Hertha Berlin  |   Fortuna Düsseldorf  |  5 - 0
+15  14. Hafta   Fortuna Düsseldorf  |           Schalke 04  |  2 - 1
+16  14. Hafta            Paderborn  |                 Köln  |  2 - 0
+17  14. Hafta                 Köln  |            Paderborn  |  0 - 1
+
+
+    15. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   15. Hafta           RB Leipzig  |           Hoffenheim  |  2 - 4
+1   15. Hafta      Mönchengladbach  |        Hertha Berlin  |  1 - 0
+2   15. Hafta    Borussia Dortmund  |            Paderborn  |  1 - 1
+3   15. Hafta              Schalke  |                 Köln  |  2 - 0
+4   15. Hafta       Bayern München  |       Bayern München  |  6 - 1
+5   15. Hafta             Freiburg  |             Mainz 05  |  0 - 4
+6   15. Hafta     Bayer Leverkusen  |   Fortuna Düsseldorf  |  0 - 3
+7   15. Hafta            Wolfsburg  |            Wolfsburg  |  2 - 1
+8   15. Hafta           Hoffenheim  |           Schalke 04  |  1 - 0
+9   15. Hafta         Union Berlin  |             Augsburg  |  2 - 4
+10  15. Hafta             Augsburg  |             Freiburg  |  1 - 0
+11  15. Hafta  Eintracht Frankfurt  |         Union Berlin  |  1 - 1
+12  15. Hafta        Hertha Berlin  |     Bayer Leverkusen  |  2 - 0
+13  15. Hafta                Mainz  |        Werder Bremen  |  6 - 1
+14  15. Hafta        Werder Bremen  |    Borussia Dortmund  |  0 - 4
+15  15. Hafta   Fortuna Düsseldorf  |           RB Leipzig  |  0 - 3
+16  15. Hafta                 Köln  |      Mönchengladbach  |  2 - 1
+17  15. Hafta            Paderborn  |  Eintracht Frankfurt  |  1 - 0
+
+
+    16. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   16. Hafta           RB Leipzig  |        Werder Bremen  |  0 - 5
+1   16. Hafta      Mönchengladbach  |             Augsburg  |  3 - 0
+2   16. Hafta       Bayern München  |         Union Berlin  |  0 - 2
+3   16. Hafta    Borussia Dortmund  |    Borussia Dortmund  |  3 - 3
+4   16. Hafta              Schalke  |     Bayer Leverkusen  |  0 - 1
+5   16. Hafta             Freiburg  |      Mönchengladbach  |  2 - 0
+6   16. Hafta     Bayer Leverkusen  |             Freiburg  |  1 - 3
+7   16. Hafta            Wolfsburg  |  Eintracht Frankfurt  |  2 - 4
+8   16. Hafta           Hoffenheim  |            Wolfsburg  |  1 - 1
+9   16. Hafta             Augsburg  |             Mainz 05  |  0 - 5
+10  16. Hafta         Union Berlin  |   Fortuna Düsseldorf  |  3 - 0
+11  16. Hafta  Eintracht Frankfurt  |           Hoffenheim  |  0 - 2
+12  16. Hafta        Hertha Berlin  |           RB Leipzig  |  3 - 3
+13  16. Hafta                Mainz  |        Hertha Berlin  |  0 - 1
+14  16. Hafta                 Köln  |            Paderborn  |  2 - 0
+15  16. Hafta        Werder Bremen  |       Bayern München  |  1 - 3
+16  16. Hafta   Fortuna Düsseldorf  |                 Köln  |  2 - 4
+17  16. Hafta            Paderborn  |           Schalke 04  |  1 - 1
+
+
+    17. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   17. Hafta           RB Leipzig  |           Hoffenheim  |  2 - 1
+1   17. Hafta      Mönchengladbach  |                 Köln  |  1 - 0
+2   17. Hafta       Bayern München  |           RB Leipzig  |  3 - 1
+3   17. Hafta    Borussia Dortmund  |             Mainz 05  |  0 - 1
+4   17. Hafta              Schalke  |           Schalke 04  |  2 - 2
+5   17. Hafta     Bayer Leverkusen  |       Bayern München  |  2 - 0
+6   17. Hafta           Hoffenheim  |        Hertha Berlin  |  0 - 0
+7   17. Hafta             Freiburg  |   Fortuna Düsseldorf  |  2 - 1
+8   17. Hafta            Wolfsburg  |            Paderborn  |  2 - 1
+9   17. Hafta             Augsburg  |    Borussia Dortmund  |  2 - 1
+10  17. Hafta         Union Berlin  |        Werder Bremen  |  1 - 0
+11  17. Hafta        Hertha Berlin  |             Augsburg  |  3 - 1
+12  17. Hafta  Eintracht Frankfurt  |     Bayer Leverkusen  |  0 - 1
+13  17. Hafta                Mainz  |             Freiburg  |  2 - 2
+14  17. Hafta                 Köln  |            Wolfsburg  |  2 - 0
+15  17. Hafta   Fortuna Düsseldorf  |      Mönchengladbach  |  0 - 0
+16  17. Hafta        Werder Bremen  |         Union Berlin  |  2 - 1
+17  17. Hafta            Paderborn  |  Eintracht Frankfurt  |  2 - 1
+
+
+    18. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   18. Hafta           RB Leipzig  |           Schalke 04  |  2 - 0
+1   18. Hafta       Bayern München  |                 Köln  |  3 - 1
+2   18. Hafta      Mönchengladbach  |             Mainz 05  |  1 - 2
+3   18. Hafta    Borussia Dortmund  |           Hoffenheim  |  1 - 2
+4   18. Hafta              Schalke  |   Fortuna Düsseldorf  |  0 - 1
+5   18. Hafta     Bayer Leverkusen  |             Augsburg  |  3 - 5
+6   18. Hafta             Freiburg  |           RB Leipzig  |  3 - 1
+7   18. Hafta           Hoffenheim  |        Hertha Berlin  |  0 - 4
+8   18. Hafta            Wolfsburg  |            Paderborn  |  1 - 4
+9   18. Hafta             Augsburg  |      Mönchengladbach  |  2 - 0
+10  18. Hafta  Eintracht Frankfurt  |            Wolfsburg  |  3 - 1
+11  18. Hafta         Union Berlin  |             Freiburg  |  1 - 2
+12  18. Hafta                 Köln  |  Eintracht Frankfurt  |  1 - 2
+13  18. Hafta        Hertha Berlin  |        Werder Bremen  |  0 - 1
+14  18. Hafta                Mainz  |    Borussia Dortmund  |  3 - 5
+15  18. Hafta        Werder Bremen  |         Union Berlin  |  3 - 1
+16  18. Hafta   Fortuna Düsseldorf  |       Bayern München  |  0 - 4
+17  18. Hafta            Paderborn  |     Bayer Leverkusen  |  1 - 4
+
+
+    19. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   19. Hafta           RB Leipzig  |    Borussia Dortmund  |  5 - 1
+1   19. Hafta       Bayern München  |             Freiburg  |  0 - 2
+2   19. Hafta      Mönchengladbach  |            Wolfsburg  |  1 - 2
+3   19. Hafta    Borussia Dortmund  |  Eintracht Frankfurt  |  2 - 0
+4   19. Hafta     Bayer Leverkusen  |      Mönchengladbach  |  3 - 1
+5   19. Hafta              Schalke  |         Union Berlin  |  2 - 0
+6   19. Hafta           Hoffenheim  |       Bayern München  |  5 - 0
+7   19. Hafta             Freiburg  |        Werder Bremen  |  0 - 3
+8   19. Hafta  Eintracht Frankfurt  |     Bayer Leverkusen  |  3 - 0
+9   19. Hafta            Wolfsburg  |                 Köln  |  5 - 1
+10  19. Hafta         Union Berlin  |            Paderborn  |  0 - 2
+11  19. Hafta             Augsburg  |        Hertha Berlin  |  1 - 2
+12  19. Hafta        Hertha Berlin  |           RB Leipzig  |  2 - 0
+13  19. Hafta                 Köln  |             Mainz 05  |  3 - 1
+14  19. Hafta                Mainz  |             Augsburg  |  2 - 0
+15  19. Hafta        Werder Bremen  |           Schalke 04  |  5 - 0
+16  19. Hafta            Paderborn  |           Hoffenheim  |  0 - 3
+17  19. Hafta   Fortuna Düsseldorf  |   Fortuna Düsseldorf  |  3 - 0
+
+
+    20. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   20. Hafta       Bayern München  |        Hertha Berlin  |  0 - 0
+1   20. Hafta           RB Leipzig  |    Borussia Dortmund  |  5 - 0
+2   20. Hafta    Borussia Dortmund  |             Augsburg  |  2 - 1
+3   20. Hafta      Mönchengladbach  |           Hoffenheim  |  2 - 1
+4   20. Hafta     Bayer Leverkusen  |             Mainz 05  |  1 - 3
+5   20. Hafta              Schalke  |   Fortuna Düsseldorf  |  1 - 1
+6   20. Hafta           Hoffenheim  |           RB Leipzig  |  2 - 2
+7   20. Hafta             Freiburg  |                 Köln  |  4 - 0
+8   20. Hafta            Wolfsburg  |            Paderborn  |  2 - 4
+9   20. Hafta             Augsburg  |           Schalke 04  |  0 - 0
+10  20. Hafta  Eintracht Frankfurt  |         Union Berlin  |  5 - 0
+11  20. Hafta         Union Berlin  |        Werder Bremen  |  2 - 1
+12  20. Hafta        Hertha Berlin  |     Bayer Leverkusen  |  2 - 1
+13  20. Hafta                 Köln  |       Bayern München  |  1 - 3
+14  20. Hafta                Mainz  |  Eintracht Frankfurt  |  1 - 1
+15  20. Hafta        Werder Bremen  |      Mönchengladbach  |  2 - 2
+16  20. Hafta   Fortuna Düsseldorf  |             Freiburg  |  4 - 0
+17  20. Hafta            Paderborn  |            Wolfsburg  |  2 - 4
+
+
+    21. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   21. Hafta       Bayern München  |  Eintracht Frankfurt  |  5 - 0
+1   21. Hafta           RB Leipzig  |             Freiburg  |  1 - 0
+2   21. Hafta      Mönchengladbach  |            Wolfsburg  |  1 - 1
+3   21. Hafta    Borussia Dortmund  |        Hertha Berlin  |  1 - 3
+4   21. Hafta     Bayer Leverkusen  |        Werder Bremen  |  0 - 2
+5   21. Hafta              Schalke  |           Schalke 04  |  1 - 1
+6   21. Hafta           Hoffenheim  |     Bayer Leverkusen  |  4 - 3
+7   21. Hafta             Freiburg  |       Bayern München  |  0 - 0
+8   21. Hafta  Eintracht Frankfurt  |      Mönchengladbach  |  2 - 1
+9   21. Hafta            Wolfsburg  |             Augsburg  |  5 - 0
+10  21. Hafta         Union Berlin  |           Hoffenheim  |  1 - 0
+11  21. Hafta             Augsburg  |   Fortuna Düsseldorf  |  1 - 1
+12  21. Hafta                 Köln  |             Mainz 05  |  1 - 3
+13  21. Hafta        Hertha Berlin  |         Union Berlin  |  0 - 2
+14  21. Hafta                Mainz  |            Paderborn  |  1 - 1
+15  21. Hafta   Fortuna Düsseldorf  |    Borussia Dortmund  |  4 - 3
+16  21. Hafta        Werder Bremen  |           RB Leipzig  |  0 - 0
+17  21. Hafta            Paderborn  |                 Köln  |  2 - 1
+
+
+    22. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   22. Hafta       Bayern München  |    Borussia Dortmund  |  4 - 0
+1   22. Hafta           RB Leipzig  |           Hoffenheim  |  2 - 3
+2   22. Hafta      Mönchengladbach  |             Augsburg  |  1 - 1
+3   22. Hafta    Borussia Dortmund  |         Union Berlin  |  2 - 3
+4   22. Hafta     Bayer Leverkusen  |           RB Leipzig  |  3 - 0
+5   22. Hafta              Schalke  |            Paderborn  |  1 - 2
+6   22. Hafta             Freiburg  |   Fortuna Düsseldorf  |  1 - 4
+7   22. Hafta           Hoffenheim  |                 Köln  |  1 - 4
+8   22. Hafta            Wolfsburg  |             Mainz 05  |  0 - 0
+9   22. Hafta  Eintracht Frankfurt  |  Eintracht Frankfurt  |  4 - 0
+10  22. Hafta             Augsburg  |            Wolfsburg  |  2 - 3
+11  22. Hafta         Union Berlin  |             Freiburg  |  1 - 1
+12  22. Hafta        Hertha Berlin  |     Bayer Leverkusen  |  2 - 3
+13  22. Hafta                 Köln  |        Werder Bremen  |  3 - 0
+14  22. Hafta                Mainz  |        Hertha Berlin  |  1 - 2
+15  22. Hafta   Fortuna Düsseldorf  |      Mönchengladbach  |  1 - 4
+16  22. Hafta        Werder Bremen  |       Bayern München  |  1 - 4
+17  22. Hafta            Paderborn  |           Schalke 04  |  0 - 0
+
+
+    23. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   23. Hafta       Bayern München  |       Bayern München  |  3 - 2
+1   23. Hafta           RB Leipzig  |             Freiburg  |  0 - 2
+2   23. Hafta      Mönchengladbach  |      Mönchengladbach  |  1 - 1
+3   23. Hafta    Borussia Dortmund  |        Hertha Berlin  |  0 - 5
+4   23. Hafta     Bayer Leverkusen  |        Werder Bremen  |  0 - 2
+5   23. Hafta              Schalke  |           Schalke 04  |  0 - 5
+6   23. Hafta            Wolfsburg  |     Bayer Leverkusen  |  2 - 0
+7   23. Hafta           Hoffenheim  |            Wolfsburg  |  4 - 0
+8   23. Hafta             Freiburg  |  Eintracht Frankfurt  |  1 - 2
+9   23. Hafta         Union Berlin  |            Paderborn  |  3 - 2
+10  23. Hafta  Eintracht Frankfurt  |   Fortuna Düsseldorf  |  0 - 2
+11  23. Hafta             Augsburg  |           Hoffenheim  |  1 - 1
+12  23. Hafta                 Köln  |                 Köln  |  0 - 5
+13  23. Hafta        Hertha Berlin  |    Borussia Dortmund  |  0 - 2
+14  23. Hafta                Mainz  |           RB Leipzig  |  0 - 5
+15  23. Hafta   Fortuna Düsseldorf  |             Augsburg  |  2 - 0
+16  23. Hafta        Werder Bremen  |             Mainz 05  |  4 - 0
+17  23. Hafta            Paderborn  |         Union Berlin  |  1 - 2
+
+
+    24. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   24. Hafta       Bayern München  |   Fortuna Düsseldorf  |  3 - 3
+1   24. Hafta           RB Leipzig  |           Hoffenheim  |  0 - 6
+2   24. Hafta      Mönchengladbach  |    Borussia Dortmund  |  1 - 0
+3   24. Hafta    Borussia Dortmund  |             Mainz 05  |  2 - 0
+4   24. Hafta     Bayer Leverkusen  |             Augsburg  |  2 - 3
+5   24. Hafta              Schalke  |                 Köln  |  3 - 0
+6   24. Hafta            Wolfsburg  |         Union Berlin  |  2 - 2
+7   24. Hafta           Hoffenheim  |           RB Leipzig  |  1 - 1
+8   24. Hafta             Freiburg  |        Werder Bremen  |  0 - 3
+9   24. Hafta  Eintracht Frankfurt  |        Hertha Berlin  |  3 - 3
+10  24. Hafta         Union Berlin  |       Bayern München  |  0 - 6
+11  24. Hafta                 Köln  |             Freiburg  |  1 - 0
+12  24. Hafta             Augsburg  |            Paderborn  |  2 - 0
+13  24. Hafta        Hertha Berlin  |      Mönchengladbach  |  2 - 3
+14  24. Hafta                Mainz  |           Schalke 04  |  3 - 0
+15  24. Hafta   Fortuna Düsseldorf  |            Wolfsburg  |  2 - 2
+16  24. Hafta        Werder Bremen  |     Bayer Leverkusen  |  1 - 1
+17  24. Hafta            Paderborn  |  Eintracht Frankfurt  |  0 - 3
+
+
+    25. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   25. Hafta       Bayern München  |            Paderborn  |  1 - 2
+1   25. Hafta    Borussia Dortmund  |             Freiburg  |  3 - 1
+2   25. Hafta           RB Leipzig  |            Wolfsburg  |  0 - 0
+3   25. Hafta      Mönchengladbach  |           Schalke 04  |  1 - 1
+4   25. Hafta     Bayer Leverkusen  |     Bayer Leverkusen  |  4 - 0
+5   25. Hafta              Schalke  |        Hertha Berlin  |  2 - 2
+6   25. Hafta            Wolfsburg  |      Mönchengladbach  |  1 - 2
+7   25. Hafta             Freiburg  |       Bayern München  |  2 - 0
+8   25. Hafta           Hoffenheim  |             Mainz 05  |  1 - 1
+9   25. Hafta                 Köln  |                 Köln  |  1 - 2
+10  25. Hafta  Eintracht Frankfurt  |         Union Berlin  |  3 - 1
+11  25. Hafta         Union Berlin  |           RB Leipzig  |  0 - 0
+12  25. Hafta        Hertha Berlin  |           Hoffenheim  |  1 - 1
+13  25. Hafta             Augsburg  |  Eintracht Frankfurt  |  4 - 0
+14  25. Hafta                Mainz  |        Werder Bremen  |  2 - 2
+15  25. Hafta   Fortuna Düsseldorf  |    Borussia Dortmund  |  1 - 2
+16  25. Hafta        Werder Bremen  |             Augsburg  |  2 - 0
+17  25. Hafta            Paderborn  |   Fortuna Düsseldorf  |  1 - 1
+
+
+    26. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   26. Hafta       Bayern München  |             Augsburg  |  1 - 2
+1   26. Hafta    Borussia Dortmund  |   Fortuna Düsseldorf  |  0 - 0
+2   26. Hafta      Mönchengladbach  |           Hoffenheim  |  0 - 3
+3   26. Hafta           RB Leipzig  |           RB Leipzig  |  1 - 1
+4   26. Hafta     Bayer Leverkusen  |    Borussia Dortmund  |  4 - 0
+5   26. Hafta            Wolfsburg  |  Eintracht Frankfurt  |  1 - 3
+6   26. Hafta             Freiburg  |                 Köln  |  2 - 2
+7   26. Hafta              Schalke  |         Union Berlin  |  0 - 2
+8   26. Hafta           Hoffenheim  |        Werder Bremen  |  1 - 4
+9   26. Hafta                 Köln  |            Wolfsburg  |  1 - 2
+10  26. Hafta  Eintracht Frankfurt  |            Paderborn  |  0 - 0
+11  26. Hafta        Hertha Berlin  |        Hertha Berlin  |  0 - 3
+12  26. Hafta         Union Berlin  |             Freiburg  |  1 - 1
+13  26. Hafta             Augsburg  |           Schalke 04  |  4 - 0
+14  26. Hafta                Mainz  |      Mönchengladbach  |  1 - 3
+15  26. Hafta   Fortuna Düsseldorf  |             Mainz 05  |  2 - 2
+16  26. Hafta        Werder Bremen  |       Bayern München  |  0 - 2
+17  26. Hafta            Paderborn  |     Bayer Leverkusen  |  1 - 4
+
+
+    27. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   27. Hafta       Bayern München  |        Hertha Berlin  |  4 - 0
+1   27. Hafta    Borussia Dortmund  |             Freiburg  |  0 - 1
+2   27. Hafta           RB Leipzig  |            Paderborn  |  1 - 1
+3   27. Hafta     Bayer Leverkusen  |            Wolfsburg  |  0 - 2
+4   27. Hafta      Mönchengladbach  |      Mönchengladbach  |  1 - 3
+5   27. Hafta            Wolfsburg  |       Bayern München  |  5 - 2
+6   27. Hafta             Freiburg  |           Schalke 04  |  0 - 3
+7   27. Hafta              Schalke  |             Mainz 05  |  0 - 5
+8   27. Hafta           Hoffenheim  |                 Köln  |  2 - 2
+9   27. Hafta                 Köln  |         Union Berlin  |  4 - 0
+10  27. Hafta        Hertha Berlin  |        Werder Bremen  |  0 - 1
+11  27. Hafta  Eintracht Frankfurt  |           Hoffenheim  |  1 - 1
+12  27. Hafta             Augsburg  |    Borussia Dortmund  |  0 - 2
+13  27. Hafta         Union Berlin  |     Bayer Leverkusen  |  1 - 3
+14  27. Hafta                Mainz  |  Eintracht Frankfurt  |  5 - 2
+15  27. Hafta   Fortuna Düsseldorf  |             Augsburg  |  0 - 3
+16  27. Hafta        Werder Bremen  |           RB Leipzig  |  0 - 5
+17  27. Hafta            Paderborn  |   Fortuna Düsseldorf  |  2 - 2
+
+
+    28. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   28. Hafta       Bayern München  |    Borussia Dortmund  |  0 - 1
+1   28. Hafta    Borussia Dortmund  |  Eintracht Frankfurt  |  3 - 3
+2   28. Hafta           RB Leipzig  |        Werder Bremen  |  0 - 0
+3   28. Hafta      Mönchengladbach  |     Bayer Leverkusen  |  1 - 4
+4   28. Hafta     Bayer Leverkusen  |           RB Leipzig  |  2 - 2
+5   28. Hafta            Wolfsburg  |             Augsburg  |  0 - 0
+6   28. Hafta           Hoffenheim  |   Fortuna Düsseldorf  |  2 - 1
+7   28. Hafta             Freiburg  |         Union Berlin  |  1 - 1
+8   28. Hafta              Schalke  |           Hoffenheim  |  3 - 1
+9   28. Hafta        Hertha Berlin  |       Bayern München  |  0 - 1
+10  28. Hafta                 Köln  |             Freiburg  |  3 - 3
+11  28. Hafta  Eintracht Frankfurt  |      Mönchengladbach  |  0 - 0
+12  28. Hafta             Augsburg  |            Wolfsburg  |  1 - 4
+13  28. Hafta         Union Berlin  |        Hertha Berlin  |  2 - 2
+14  28. Hafta                Mainz  |            Paderborn  |  0 - 0
+15  28. Hafta   Fortuna Düsseldorf  |           Schalke 04  |  2 - 1
+16  28. Hafta        Werder Bremen  |             Mainz 05  |  1 - 1
+17  28. Hafta            Paderborn  |                 Köln  |  3 - 1
+
+
+    29. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   29. Hafta       Bayern München  |             Freiburg  |  0 - 1
+1   29. Hafta    Borussia Dortmund  |             Mainz 05  |  0 - 1
+2   29. Hafta           RB Leipzig  |            Wolfsburg  |  1 - 2
+3   29. Hafta      Mönchengladbach  |        Hertha Berlin  |  2 - 0
+4   29. Hafta     Bayer Leverkusen  |           Schalke 04  |  0 - 1
+5   29. Hafta            Wolfsburg  |       Bayern München  |  5 - 0
+6   29. Hafta           Hoffenheim  |      Mönchengladbach  |  4 - 1
+7   29. Hafta             Freiburg  |            Paderborn  |  1 - 6
+8   29. Hafta        Hertha Berlin  |                 Köln  |  2 - 4
+9   29. Hafta              Schalke  |     Bayer Leverkusen  |  0 - 1
+10  29. Hafta  Eintracht Frankfurt  |           Hoffenheim  |  0 - 1
+11  29. Hafta                 Köln  |  Eintracht Frankfurt  |  1 - 2
+12  29. Hafta             Augsburg  |             Augsburg  |  2 - 0
+13  29. Hafta         Union Berlin  |        Werder Bremen  |  0 - 1
+14  29. Hafta                Mainz  |   Fortuna Düsseldorf  |  5 - 0
+15  29. Hafta   Fortuna Düsseldorf  |         Union Berlin  |  4 - 1
+16  29. Hafta        Werder Bremen  |    Borussia Dortmund  |  1 - 6
+17  29. Hafta            Paderborn  |           RB Leipzig  |  2 - 4
+
+
+    30. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   30. Hafta       Bayern München  |             Freiburg  |  1 - 0
+1   30. Hafta    Borussia Dortmund  |     Bayer Leverkusen  |  2 - 4
+2   30. Hafta           RB Leipzig  |   Fortuna Düsseldorf  |  2 - 2
+3   30. Hafta      Mönchengladbach  |           RB Leipzig  |  1 - 1
+4   30. Hafta     Bayer Leverkusen  |  Eintracht Frankfurt  |  0 - 2
+5   30. Hafta            Wolfsburg  |    Borussia Dortmund  |  1 - 0
+6   30. Hafta           Hoffenheim  |        Werder Bremen  |  0 - 1
+7   30. Hafta             Freiburg  |         Union Berlin  |  1 - 1
+8   30. Hafta        Hertha Berlin  |             Augsburg  |  1 - 1
+9   30. Hafta              Schalke  |      Mönchengladbach  |  1 - 0
+10  30. Hafta  Eintracht Frankfurt  |       Bayern München  |  2 - 4
+11  30. Hafta                 Köln  |           Hoffenheim  |  2 - 2
+12  30. Hafta             Augsburg  |            Paderborn  |  1 - 1
+13  30. Hafta         Union Berlin  |             Mainz 05  |  0 - 2
+14  30. Hafta                Mainz  |        Hertha Berlin  |  1 - 0
+15  30. Hafta   Fortuna Düsseldorf  |            Wolfsburg  |  0 - 1
+16  30. Hafta        Werder Bremen  |           Schalke 04  |  1 - 1
+17  30. Hafta            Paderborn  |                 Köln  |  1 - 1
+
+
+    31. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   31. Hafta       Bayern München  |           Hoffenheim  |  0 - 2
+1   31. Hafta    Borussia Dortmund  |            Paderborn  |  1 - 5
+2   31. Hafta           RB Leipzig  |            Wolfsburg  |  2 - 2
+3   31. Hafta     Bayer Leverkusen  |   Fortuna Düsseldorf  |  0 - 1
+4   31. Hafta      Mönchengladbach  |                 Köln  |  1 - 2
+5   31. Hafta            Wolfsburg  |        Hertha Berlin  |  1 - 4
+6   31. Hafta           Hoffenheim  |       Bayern München  |  2 - 1
+7   31. Hafta             Freiburg  |             Mainz 05  |  0 - 1
+8   31. Hafta              Schalke  |           Schalke 04  |  1 - 1
+9   31. Hafta  Eintracht Frankfurt  |           RB Leipzig  |  0 - 2
+10  31. Hafta        Hertha Berlin  |        Werder Bremen  |  1 - 5
+11  31. Hafta                 Köln  |             Freiburg  |  2 - 2
+12  31. Hafta             Augsburg  |    Borussia Dortmund  |  0 - 1
+13  31. Hafta         Union Berlin  |         Union Berlin  |  1 - 2
+14  31. Hafta                Mainz  |  Eintracht Frankfurt  |  1 - 4
+15  31. Hafta   Fortuna Düsseldorf  |      Mönchengladbach  |  2 - 1
+16  31. Hafta        Werder Bremen  |             Augsburg  |  0 - 1
+17  31. Hafta            Paderborn  |     Bayer Leverkusen  |  1 - 1
+
+
+    32. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   32. Hafta       Bayern München  |      Mönchengladbach  |  3 - 0
+1   32. Hafta    Borussia Dortmund  |             Freiburg  |  2 - 1
+2   32. Hafta           RB Leipzig  |         Union Berlin  |  1 - 0
+3   32. Hafta     Bayer Leverkusen  |        Werder Bremen  |  0 - 1
+4   32. Hafta      Mönchengladbach  |  Eintracht Frankfurt  |  2 - 1
+5   32. Hafta            Wolfsburg  |           RB Leipzig  |  2 - 2
+6   32. Hafta           Hoffenheim  |     Bayer Leverkusen  |  3 - 1
+7   32. Hafta             Freiburg  |             Augsburg  |  1 - 3
+8   32. Hafta  Eintracht Frankfurt  |    Borussia Dortmund  |  0 - 2
+9   32. Hafta              Schalke  |            Wolfsburg  |  3 - 0
+10  32. Hafta        Hertha Berlin  |        Hertha Berlin  |  2 - 1
+11  32. Hafta         Union Berlin  |            Paderborn  |  1 - 0
+12  32. Hafta                 Köln  |       Bayern München  |  0 - 1
+13  32. Hafta             Augsburg  |           Schalke 04  |  2 - 1
+14  32. Hafta                Mainz  |   Fortuna Düsseldorf  |  2 - 2
+15  32. Hafta   Fortuna Düsseldorf  |                 Köln  |  3 - 1
+16  32. Hafta        Werder Bremen  |           Hoffenheim  |  1 - 3
+17  32. Hafta            Paderborn  |             Mainz 05  |  0 - 2
+
+
+    33. Hafta             Sıralama  |              Fixture ||  Sonuç
+0   33. Hafta       Bayern München  |                 Köln  |  1 - 1
+1   33. Hafta    Borussia Dortmund  |   Fortuna Düsseldorf  |  1 - 1
+2   33. Hafta           RB Leipzig  |           Hoffenheim  |  4 - 0
+3   33. Hafta      Mönchengladbach  |            Paderborn  |  1 - 3
+4   33. Hafta     Bayer Leverkusen  |           RB Leipzig  |  0 - 2
+5   33. Hafta            Wolfsburg  |       Bayern München  |  3 - 1
+6   33. Hafta           Hoffenheim  |             Mainz 05  |  3 - 1
+7   33. Hafta             Freiburg  |        Hertha Berlin  |  2 - 0
+8   33. Hafta  Eintracht Frankfurt  |           Schalke 04  |  1 - 4
+9   33. Hafta        Hertha Berlin  |  Eintracht Frankfurt  |  1 - 1
+10  33. Hafta              Schalke  |             Augsburg  |  1 - 1
+11  33. Hafta         Union Berlin  |         Union Berlin  |  4 - 0
+12  33. Hafta                Mainz  |      Mönchengladbach  |  1 - 3
+13  33. Hafta                 Köln  |    Borussia Dortmund  |  0 - 2
+14  33. Hafta             Augsburg  |             Freiburg  |  3 - 1
+15  33. Hafta   Fortuna Düsseldorf  |        Werder Bremen  |  3 - 1
+16  33. Hafta        Werder Bremen  |     Bayer Leverkusen  |  2 - 0
+17  33. Hafta            Paderborn  |            Wolfsburg  |  1 - 4
+
+
